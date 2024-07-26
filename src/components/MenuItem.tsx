@@ -1,4 +1,4 @@
-import { MenuItem } from "c:/Users/karan/OneDrive/Desktop/food Delivery/frontend/src/types";
+import { MenuItem } from "c:/Users/karan/OneDrive/Desktop/mern-food-order/frontend/src/types";
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 
 type Props = {
